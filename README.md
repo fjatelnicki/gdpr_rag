@@ -107,13 +107,13 @@ The article selection process is implemented in the `Retriever` class and uses a
 
 The Article Score is calculated using the following formula:
 
-$$\text{Article\_Score} = \frac{w_1 \cdot \text{Summary\_Similarity} + w_2 \cdot \text{Keyword\_Match\_Score} + w_3 \cdot \text{Article\_Mention\_Score}}{w_1 + w_2 + w_3}$$
+$$\text{Article Score} = \frac{w_1 \cdot \text{Summary Similarity} + w_2 \cdot \text{Keyword Match Score} + w_3 \cdot \text{Article Mention Score}}{w_1 + w_2 + w_3}$$
 
 Where:
 - $w_1$, $w_2$, and $w_3$ are weights for each component
-- $\text{Summary\_Similarity}$ is the similarity score between the article and summary
-- $\text{Keyword\_Match\_Score}$ is the score based on keyword matches
-- $\text{Article\_Mention\_Score}$ is the score based on article mentions
+- $\text{Summary Similarity}$ is the similarity score between the article and summary
+- $\text{Keyword Match Score}$ is the score based on keyword matches
+- $\text{Article Mention Score}$ is the score based on article mentions
 
 
 This approach allows the system to focus on the most relevant articles for each query, enhancing the overall performance of the RAG system.

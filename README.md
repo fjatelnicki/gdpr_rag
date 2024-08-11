@@ -184,3 +184,21 @@ Keyword matches: portability
 Retrieved Document Parts:
 ...
 ```
+### Example 3: Legal Document Matching
+```
+Enter your question (or 'quit' to exit): Tell me about C-136/17
+
+Searching for relevant documents...
+
+Answer: 
+
+C-136/17 is a case that was brought before the Court of Justice of the European Union (CJEU) regarding the right to be forgotten under Article 17 of the General Data Protection Regulation (GDPR). The case involved a dispute between a Spanish citizen and Google, where the citizen requested that Google remove links to articles about his past financial troubles. The CJEU ruled that Google is required to remove links to personal data upon request, even if the data is accurate and lawfully published. This case further strengthened the right to be forgotten in the online environment.
+
+Retrieved Documents:
+
+Article 17:
+  Reasons:
+    - Query-Summary similarity: 0.09
+    - Keyword matches: c-136/17
+  Retrieved Document Parts:
+```

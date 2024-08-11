@@ -107,7 +107,7 @@ The article selection process is implemented in the `Retriever` class and uses a
 
 The Article Score is calculated using the following formula:
 
-$$\text{Article Score} = {w_1 \cdot \text{Summary Similarity} + w_2 \cdot \text{Keyword Match Score} + w_3 \cdot \text{Article Mention Score}$$
+$$\text{Article Score} = w_1 \cdot \text{Summary Similarity} + w_2 \cdot \text{Keyword Match Score} + w_3 \cdot \text{Article Mention Score}$$
 
 Where:
 - $w_1$, $w_2$, and $w_3$ are weights for each component

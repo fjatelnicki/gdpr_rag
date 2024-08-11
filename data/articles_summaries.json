@@ -1,0 +1,23 @@
+{
+    "1": "Outlines the GDPR's purpose to protect individuals' rights regarding personal data and regulate data processing.",
+    "2": "Specifies data processing activities under GDPR, including EU member states' activities regardless of processing location.",
+    "3": "Defines GDPR's geographical scope, applying to EU-based organizations and those offering services to or monitoring EU data subjects.",
+    "4": "Provides definitions for key terms like 'personal data', 'processing', 'controller', and 'processor'.",
+    "5": "Lists core principles for processing personal data, including lawfulness, fairness, transparency, and data minimization.",
+    "6": "Specifies lawful bases for processing personal data, such as consent, contract necessity, and legitimate interests.",
+    "7": "Details conditions for obtaining valid consent, emphasizing it must be freely given, specific, informed, and unambiguous.",
+    "8": "Sets age of consent for data processing related to information society services, allowing member states to set between 13-16 years.",
+    "9": "Prohibits processing sensitive data unless specific conditions are met, such as explicit consent or legal necessity.",
+    "10": "States that processing criminal conviction data requires a legal basis under EU or member state law.",
+    "11": "Covers processing that doesn't require data subject identification, setting limitations for controllers.",
+    "12": "Obligates controllers to provide transparent information about data processing in an accessible form.",
+    "13": "Details information to be provided when collecting data directly from subjects, including processing purpose and retention period.",
+    "14": "Specifies information to be provided when data is not obtained directly from the subject, including data source.",
+    "15": "Grants data subjects right to access their personal data and obtain details about its processing.",
+    "16": "Gives data subjects right to have inaccurate data corrected and incomplete data completed.",
+    "17": "Allows data subjects to have their personal data erased under certain conditions.",
+    "18": "Provides data subjects right to restrict data processing under certain circumstances.",
+    "19": "Requires controllers to notify recipients about data rectification, erasure, or processing restrictions.",
+    "20": "Grants data subjects right to receive their data in a structured, machine-readable format and transfer it.",
+    "21": "Gives data subjects right to object to data processing based on certain grounds, including direct marketing."
+}

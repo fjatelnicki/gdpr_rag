@@ -12,3 +12,4 @@
 -  Develop thorough unit and integration tests.
 - Implement and compare different vectorization techniques (TF-IDF, BERT) alongside the current method.
 - The Generator class could benefit from more sophisticated prompt engineering techniques.
+- Use a knowledge graph-based approach like neo4js

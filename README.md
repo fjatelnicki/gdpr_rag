@@ -118,7 +118,7 @@ Where:
 
 This approach allows the system to focus on the most relevant articles for each query, enhancing the overall performance of the RAG system.
 
-// ... rest of the existing content ...
+
 
 ## Testing
 
